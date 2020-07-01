@@ -16,3 +16,5 @@ export function trimSymbols(string, size) {
 
   return result;
 }
+
+// Не совсем то что нужно, но очень близко :)
